@@ -1,0 +1,11 @@
+git remote add origin https://github.com/Savitha1114/mini-netflix-vue.git
+
+
+
+https://Savitha1114.github.io/mini-netflix-vue/
+
+
+
+Link published :
+
+		https://Savitha1114.github.io/mini-netflix-vue/

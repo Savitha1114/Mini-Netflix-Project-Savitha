@@ -31,30 +31,5 @@ onMounted(async () => {
 </script>
 
 <style scoped lang="scss">
-.movie-grid {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1rem;
-  padding: 1rem;
-
-  article {
-    width: 200px;
-    background: #fff;
-    padding: 1rem;
-    border-radius: 10px;
-    cursor: pointer;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-    text-align: center;
-    transition: transform 0.2s;
-  }
-
-  article:hover {
-    transform: scale(1.05);
-  }
-
-  img {
-    width: 100%;
-    border-radius: 5px;
-  }
-}
+/* your responsive SCSS from earlier */
 </style>
