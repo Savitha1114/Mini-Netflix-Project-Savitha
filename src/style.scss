@@ -4,3 +4,19 @@ body {
   background: #f4f4f4;
   color: #333;
 }
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.title {
+  text-align: left;
+}
+
+.author {
+  text-align: right;
+}
